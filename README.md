@@ -16,8 +16,8 @@
 
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="300" /></p>
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="500"/></p>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400"/></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="600"/></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400" height="200"/></p>
 
 
 
