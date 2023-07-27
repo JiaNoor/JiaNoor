@@ -19,7 +19,7 @@
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400" height="200"/></p>
 
-<p align="left">&nbsp;<img align="left" src="https://activity-graph.herokuapp.com/graph?username=JiaNoor&bg_color=000000&color=ffffff&line=bfff00&point=800080&area=true&area_color=d6cadd&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="jianoor" width="600"/></p>
+
 
 
 
