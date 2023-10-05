@@ -14,10 +14,11 @@
 <a href="https://stackoverflow.com/users/17881283/jia-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jia noor" height="30" width="40" /></a>
 </p>
 
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="300" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="300" /></p>
 
+<p ><img src="https://github-readme-stats.vercel.app/api?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="350"/></p>
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400" height="200"/></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400"/></p>
 
 
 
