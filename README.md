@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Javeria Noor</h1>
-<h3 align="left">Hi, This is Javeria Noor, a software developer💻👨‍💻 having skills and expertise in Java, Flutter and Angular✨.Currently I am working on Flutter, Angular and Sprinboot⚡ mainly while Html,Css, JavaScript, C++ etc are my other important skills😄.</h3>
+<h3 align="left">Hi..., This is Javeria Noor, a software developer💻👨‍💻 having skills and expertise in Java, Flutter and Angular✨.Currently I am working on Flutter, Angular and Sprinboot⚡ mainly while Html,Css, JavaScript, C++ etc are my other important skills😄.</h3>
 
 <img align="center" alt="Coding" width="600" src= "https://user-images.githubusercontent.com/90166738/156344614-765d0c72-a479-4cfc-a4d2-c49901b75ca7.gif">
 
