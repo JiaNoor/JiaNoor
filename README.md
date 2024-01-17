@@ -21,8 +21,8 @@
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jianoor&show_icons=true&theme=highcontrast&locale=en" alt="jianoor" margin-top="100"/></p>
+<br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jianoor&show_icons=true&theme=highcontrast&locale=en" alt="jianoor" width="400" margin="100"/></p>
 
 
 
