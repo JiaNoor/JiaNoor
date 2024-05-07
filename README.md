@@ -18,11 +18,8 @@
 
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jianoor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jianoor" width="300" /></p>
 
+<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast" alt="jianoor" width="400" /></p>
 
+<br><br><br><br><br>
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jianoor&theme=highcontrast&layout=compact" alt="jianoor" width="400" /></p>
-<br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jianoor&show_icons=true&theme=highcontrast&locale=en" alt="jianoor" width="400" margin="100"/></p>
-
-
-
